@@ -31,7 +31,7 @@ msgid "Request name;Bytes;Manual"
 msgstr ""
 
 msgid "Add"
-msgstr "Add"
+msgstr "Добавить"
 
 msgid "Send request bytes (HEX)"
 msgstr "Send request bytes (HEX)"
@@ -124,19 +124,19 @@ msgid "Duplicate selected"
 msgstr ""
 
 msgid "Remove selected"
-msgstr ""
+msgstr "Удалить выбранное"
 
 msgid "Reload"
 msgstr "Reload"
 
 msgid "Validate changes"
-msgstr "Validate changes"
+msgstr "Применить изменения"
 
 msgid "Description"
-msgstr "Description"
+msgstr "Описание"
 
 msgid "Data type"
-msgstr "Data type"
+msgstr "Тип данных"
 
 msgid "Numeric"
 msgstr "Numeric"
@@ -231,7 +231,7 @@ msgid "Add new"
 msgstr "Add new"
 
 msgid "Delete selected"
-msgstr "Delete selected"
+msgstr "Удалить выбранное"
 
 msgid "Diag version"
 msgstr "Diag version"
@@ -240,7 +240,7 @@ msgid "Soft"
 msgstr "Soft"
 
 msgid "Version"
-msgstr "Version"
+msgstr "Версия"
 
 msgid "ECU name"
 msgstr "Название ЭБУ"
@@ -261,7 +261,7 @@ msgid "DDT4All"
 msgstr ""
 
 msgid "loaded ECUs in database."
-msgstr "ЭБУ загружено."
+msgstr "ЭБУ загружены в базу данных."
 
 msgid "Refresh rate (ms):"
 msgstr "Частота обновления (ms):"
@@ -270,7 +270,7 @@ msgid "Can timeout (ms) [0:AUTO] :"
 msgstr ""
 
 msgid "Documentation"
-msgstr ""
+msgstr "Документация"
 
 msgid "Screen"
 msgstr "Экран"
@@ -330,19 +330,19 @@ msgid "Manual request"
 msgstr ""
 
 msgid "Zoom In"
-msgstr ""
+msgstr "Увеличить"
 
 msgid "Zoom Out"
-msgstr ""
+msgstr "Уменьшить"
 
 msgid "UI Edit"
 msgstr ""
 
 msgid "Open XML"
-msgstr ""
+msgstr "Открыть XML"
 
 msgid "Identify ECU"
-msgstr ""
+msgstr "Идентифицировать ЭБУ"
 
 msgid "Create New ECU"
 msgstr "Создать новый ЭБУ"
@@ -354,10 +354,10 @@ msgid "Save ECU list"
 msgstr "Сохранить список ЭБУ"
 
 msgid "Zip database"
-msgstr ""
+msgstr "Zip база данных"
 
 msgid "Plugins"
-msgstr ""
+msgstr "Плагины"
 
 msgid "Cannot load plugin "
 msgstr ""
@@ -387,7 +387,7 @@ msgid "Scan options"
 msgstr "Опции сканирования"
 
 msgid "CANCEL"
-msgstr ""
+msgstr "ОТМЕНА"
 
 msgid "Scanning CAN"
 msgstr "Сканирование CAN"
@@ -396,7 +396,7 @@ msgid "Scanning KWP"
 msgstr "Сканирование KWP"
 
 msgid "EDITION MODE"
-msgstr "РЕДАКТОР"
+msgstr "РЕЖИМ РЕДАКТИРОВАНИЯ"
 
 msgid "CONNECTED"
 msgstr "ПОДКЛЮЧЕН"
@@ -432,7 +432,7 @@ msgid "Connected mode"
 msgstr "Подключиться"
 
 msgid "Edition mode"
-msgstr "Редактор"
+msgstr "Режим редактирования"
 
 msgid "ELM benchmark"
 msgstr "Проверка ELM"
@@ -444,7 +444,7 @@ msgid "I'm aware that I can harm my car if badly used"
 msgstr "Я понимаю, что могу навредить моему автомобилю"
 
 msgid "Dark style"
-msgstr ""
+msgstr "Темный стиль"
 
 msgid "You must check the recommandations"
 msgstr "Вы должны согласиться с условиями"
@@ -466,7 +466,7 @@ msgid "No ELM327 or OBDLINK-SX detected on COM port "
 msgstr "ELM327 или OBDLINK-SX не обнаружены на COM порту "
 
 msgid "Error:"
-msgstr ""
+msgstr "Ошибка"
 
 msgid "ELM not connected or wrong COM port"
 msgstr "ELM не подключен или неверный COM порт"
@@ -534,7 +534,7 @@ msgstr ""
 
 #, python-format
 msgid "Adding plugin file %s"
-msgstr ""
+msgstr "Добавить плагин %ы"
 
 msgid "To be able to edit your screen, first export it in JSON format"
 msgstr "Для редактирования экрана сначала сохраните его в JSON"
@@ -573,10 +573,10 @@ msgid "Invalid DDT file"
 msgstr "Неверный DDT файл"
 
 msgid "Connection to ELM lost, trying to reconnect..."
-msgstr ""
+msgstr "Соединение с ELM потеряно,выполните переподключение..."
 
 msgid "Cannot reconnect..."
-msgstr ""
+msgstr "Переподключение..."
 
 msgid "Switching to session mode"
 msgstr "Переключение в режим"
