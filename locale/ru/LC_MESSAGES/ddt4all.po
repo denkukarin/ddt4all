@@ -466,7 +466,7 @@ msgid "No ELM327 or OBDLINK-SX detected on COM port "
 msgstr "ELM327 или OBDLINK-SX не обнаружены на COM порту "
 
 msgid "Error:"
-msgstr ""
+msgstr "Ошибка:"
 
 msgid "ELM not connected or wrong COM port"
 msgstr "ELM не подключен или неверный COM порт"
@@ -651,7 +651,7 @@ msgid "Values"
 msgstr ""
 
 msgid "Waiting..."
-msgstr ""
+msgstr "Ждите..."
 
 msgid "Frame hex error : "
 msgstr ""
@@ -741,7 +741,7 @@ msgid "Modus/Clio III EPS Reset"
 msgstr ""
 
 msgid "EPS Tools"
-msgstr ""
+msgstr "EPS Инструменты"
 
 msgid "Modus/Clio III EPS VIRGINIZER<br><font color='red'>THIS PLUGIN WILL RESET EPS IMMO DATA<br>GO AWAY IF YOU HAVE NO IDEA OF WHAT IT MEANS</font>"
 msgstr ""
@@ -753,13 +753,13 @@ msgid "Virginize EPS"
 msgstr ""
 
 msgid "VIN - READ"
-msgstr ""
+msgstr "VIN - ЧТЕНИЕ"
 
 msgid "VIN - WRITE"
-msgstr ""
+msgstr "VIN - ЗАПИСЬ"
 
 msgid "Write VIN"
-msgstr ""
+msgstr "Запись VIN"
 
 msgid "<font color='red'>VIN - INVALID</font>"
 msgstr ""
@@ -798,7 +798,7 @@ msgid "Laguna II UCH Reset"
 msgstr ""
 
 msgid "UCH Tools"
-msgstr "UCH Tools"
+msgstr "UCH Инструменты"
 
 msgid "LAGUNA II UCH VIRGINIZER<br><font color='red'>THIS PLUGIN WILL ERASE YOUR UCH<br>GO AWAY IF YOU HAVE NO IDEA OF WHAT IT MEANS</font>"
 msgstr ""
@@ -852,10 +852,10 @@ msgid "TWINGO III/ZOE/DOKKER/DUSTER ph2/TRAFIC III/CAPTUR/LODGY ph1/2<br>AIRBAG 
 msgstr ""
 
 msgid "CRC calculator"
-msgstr ""
+msgstr "CRC калькулятор"
 
 msgid "VIN"
-msgstr ""
+msgstr "VIN"
 
 msgid "CRC CALCULATOR"
-msgstr ""
+msgstr "CRC КАЛЬКУЛЯТОР"
